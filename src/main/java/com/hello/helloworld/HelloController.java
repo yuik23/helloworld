@@ -20,4 +20,9 @@ public class HelloController {
                 "こんばんは", "Good afternoon"
         );
     }
+
+    @GetMapping("/responses")
+    public HelloResponse helloResponse() {
+        return new HelloResponse("こんにちは");
+    }
 }
