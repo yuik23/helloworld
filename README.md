@@ -17,5 +17,5 @@
 - Hello World を返していること
 <img width="645" alt="image" src="https://github.com/yuik23/helloworld/assets/121958929/ddd403e5-5e26-4376-944f-e9dc4051afff">
 
-## 概要②　動作結果
+## 概要②　動作結果とその対応
 PR２つがコンフリクトを起こしたため、feature/greetingをマージしたのちそのコードにfeature/hello-worldと同じ内容の処理を加えたfeature/responseを作成、マージしました。
